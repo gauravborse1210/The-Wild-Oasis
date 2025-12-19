@@ -63,8 +63,8 @@ Link :- `https://the-wild-oasis-gaurav-borse.netlify.app/`
 ```
 root
 │── public/
-│── context            # Reusable DarkMode Context
 │── src/
+│── context            # Reusable DarkMode Context
 │   ├── features/      # Bookings, cabins, auth, dashboard
 │   ├── services/      # Supabase & API logic
 │   ├── ui/            # Reusable UI components
